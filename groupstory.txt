@@ -1,13 +1,13 @@
 Title: Snowy Day
 
-Line 1: CS
+Line 1: Once upon a time there was a very snowy day.
 
 Line 2: 
 
-Line 3: CS
+Line 3: The kids were very happy to play outside.
 
 Line 4: 
 
-Line 5: CS
+Line 5: Then the snowman came to life somehow.
 
 Line 6: 
